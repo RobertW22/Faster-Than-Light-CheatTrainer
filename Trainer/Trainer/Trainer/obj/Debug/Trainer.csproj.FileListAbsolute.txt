@@ -1,0 +1,14 @@
+C:\Users\bobby\Desktop\Code\Trainer\Trainer\Trainer\bin\Debug\Trainer.exe.config
+C:\Users\bobby\Desktop\Code\Trainer\Trainer\Trainer\bin\Debug\Trainer.exe
+C:\Users\bobby\Desktop\Code\Trainer\Trainer\Trainer\bin\Debug\Trainer.pdb
+C:\Users\bobby\Desktop\Code\Trainer\Trainer\Trainer\obj\Debug\Trainer.csproj.AssemblyReference.cache
+C:\Users\bobby\Desktop\Code\Trainer\Trainer\Trainer\obj\Debug\Trainer.csproj.SuggestedBindingRedirects.cache
+C:\Users\bobby\Desktop\Code\Trainer\Trainer\Trainer\obj\Debug\Trainer.Form1.resources
+C:\Users\bobby\Desktop\Code\Trainer\Trainer\Trainer\obj\Debug\Trainer.Properties.Resources.resources
+C:\Users\bobby\Desktop\Code\Trainer\Trainer\Trainer\obj\Debug\Trainer.csproj.GenerateResource.cache
+C:\Users\bobby\Desktop\Code\Trainer\Trainer\Trainer\obj\Debug\Trainer.csproj.CoreCompileInputs.cache
+C:\Users\bobby\Desktop\Code\Trainer\Trainer\Trainer\obj\Debug\Trainer.exe
+C:\Users\bobby\Desktop\Code\Trainer\Trainer\Trainer\obj\Debug\Trainer.pdb
+C:\Users\bobby\Desktop\Code\Trainer\Trainer\Trainer\bin\Debug\Memory.dll
+C:\Users\bobby\Desktop\Code\Trainer\Trainer\Trainer\bin\Debug\Memory.xml
+C:\Users\bobby\Desktop\Code\Trainer\Trainer\Trainer\obj\Debug\Trainer.csproj.CopyComplete
