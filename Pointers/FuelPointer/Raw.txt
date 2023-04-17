@@ -1,0 +1,4 @@
+ecx+00000494
+
+
+final = "FTLGame.exe"+0051348C + 494
