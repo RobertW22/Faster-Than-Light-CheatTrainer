@@ -62,6 +62,15 @@ namespace Trainer
 
         }
 
+        public static void AddDrone()
+        {
+            Mem c = new Mem();
+            c.OpenProcess("FTLGame");
+            c.WriteMemory("base+0051348C,800", "int", "9999");
+
+
+        }
+
 
 
 
@@ -183,6 +192,16 @@ namespace Trainer
         private void button3_Click_1(object sender, EventArgs e)
         {
             Form1.AddMissile();
+        }
+
+        private void button4_Click(object sender, EventArgs e)
+        {
+            AddDrone();
+        }
+
+        private void label5_Click(object sender, EventArgs e)
+        {
+
         }
     }
 }
